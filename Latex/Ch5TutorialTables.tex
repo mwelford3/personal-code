@@ -1,0 +1,41 @@
+\documentclass[11pt]{article}
+\begin{document}
+\begin{tabular}{|lcr||}
+left aligned column & center column & right column\\
+\hline
+text & text & text\\
+text & text & text\\
+\end{tabular}
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|}
+\hline
+&\multicolumn{3}{|c|}{Income Groups}\\
+\cline{2-4}
+City&Lower&Middle&Higher\\
+\hline
+City-1&11&21&13\\
+City-2&21&31&41\\
+\hline
+\end{tabular}
+\end{center}
+
+
+\end{document}
+
+\documentclass{article}
+\usepackage[table]{xcolor}
+
+\begin{document}
+
+\begin{tabular}{|1|1|1|}
+\rowcolor{green}
+A&B&C\\
+\rowcolor{red}
+D&E&F\\
+G&H&I\\
+\rowcolor{blue}
+J&K&L
+\end{tabular}
+
+\end{document}
