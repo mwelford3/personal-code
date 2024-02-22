@@ -3,7 +3,7 @@
 # Tool Name: Multi Mutation Counter
 #
 # Required input files:
-# /mnt/home/z1679714/sars-cov2-GISAID-Sgene/test13.above97.txt This needs to become a relative path.
+# ... This needs to become a relative path.
 # 
 # Output file names:
 # temp_multi_contiguous_deletion_counter.txt
