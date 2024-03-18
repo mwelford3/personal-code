@@ -1,0 +1,49 @@
+<html>
+    <head>
+        <title>Landing Page</title>
+    </head>
+    <body>
+        <header>
+            <h1 style="background-color:#ffca3a">Dragon Products</h1>
+        </header>
+        <main>
+            <img src="https://blob.sololearn.com/courses/np.png">
+            <!--Stuff-->
+            <p>Introducing our <b>latest product</b>, designed to make<br>
+            your life easier and more efficient.</p>
+            <ul>
+                <li>Apples Juicer</li>
+                <li>Cheese Maker</li>
+                <li>Fat Reducer</li>
+            </ul>
+
+            <h2 style="background-color:#ffca3a">Order now!</h2>
+
+            <form>
+                <!--Add size and color-->
+                <label for="size_drop">Size:</label>
+                <select id="size_drop" name="size">
+                    <option selected>Small</option>
+                    <option>Medium</option>
+                    <option>Large</option>
+                </select>
+                <label for="color_drop">Color:</label>
+                <select id="color_drop" name="color">
+                    <option>Red</option>
+                    <option>Blue</option>
+                    <option>Green</option>
+                    <option>Black</option>
+                </select><br><br>
+                <label for="name_box">Name:</label>
+                <input id="name_box" type="text" name="name"></input><br><br>
+                <label for="email_box">Email:</label>
+                <input id="email_box" type="email" name="email"></input><br><br>
+                <input id="submit_button" onclick="alert('Order confirmed!')" type="submit" style="color:white;background-color:black;border:none;border-radius:5px;font-size:12pt"></input>
+            </form>
+            
+        </main>
+        <footer style="background-color:#ffca3a">
+            Welford Analytics Inc.
+        </footer>
+    </body>
+</html>
