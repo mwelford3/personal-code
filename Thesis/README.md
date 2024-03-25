@@ -1,3 +1,7 @@
 This repository contains example files from my thesis.<br><br>
 <b>GeneralDeletionAnalyzer.ipynb:</b>
-<p>This tool takes the counts of the deletions at different nucleotide positions in the S-gene of SARS-CoV-2 and outputs a description of said data. It also plots histograms of the data. </p>
+<p>
+	This tool is used to analyze the deletions in any number of datasets.
+	The highest frequency deletions, highest frequency deletion lengths using three
+	metrics, and highest frequency frameshift deletions are found. Histograms for the
+	deletion lengths using the three frequency metrics are generated.</p>
