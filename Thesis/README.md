@@ -44,5 +44,12 @@ This repository contains example files from my thesis.<br><br>
 	Finally, it plots mutation frequency vs. nucleotide position for the whole S-gene
 	and each of three hotspot regions (1-3822, 1-1000, 1000-2500, 2500-3822).
 	It also lists the high frequency (>= 0.1) mutation positions in each dataset.</p><br>
+ 
  <b>multi_deletion_counter.py:</b>
- <p></p>
+ <p>Calculates the counts/frequencies for each continuous deletion sequence in the multi alignment
+	dataset. It also calculates the percentage of sequences with deletions of different lengths.</p><br>
+
+<b>multi_mutation_counter.py:</b>
+<p></p>
+
+ 
