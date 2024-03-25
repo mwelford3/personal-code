@@ -1,4 +1,4 @@
-This repository contains example files from my thesis.<br><br>
+This repository contains example files from my thesis work.<br><br>
 <b>GeneralDeletionAnalyzer.ipynb:</b>
 <p>
 	This tool is used to analyze the deletions in any number of datasets.
