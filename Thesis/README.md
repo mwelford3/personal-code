@@ -7,7 +7,9 @@ This repository contains example files from my thesis.<br><br>
 	deletion lengths using the three frequency metrics are generated.</p><br>
 
  <b>SubunitAnalyzer.ipyb</b>
-<p>    The following can be used for any number of datasets and a set of user defined S-gene subunits/regions.
+ <p>See description of general_subunit_analyzer.py for newer version. The ipynb file was used during the thesis work.</p><br>
+ <b>general_subunit_analyzer.py</b>
+<p> This tool can be used for any number of datasets and a set of user defined S-gene subunits/regions.
     General summaries denoting the percentages for subtitutions and/or deletions in the entire S-gene and
 	the average numbers of each mutation type are produced for both datasets.
 	General mutation frequency plots are then generated.
