@@ -53,9 +53,8 @@ This repository contains example files from my thesis.<br><br>
 <p>This tool finds the substitution and single nucleotide deletion counts and frequencies at each nucleotide position.
 	The resulting data is saved in new_mutation_counts_freq_for_S_all.csv.</p><br>
 
- <b>pairwise_mutation_counter.py:</b>
- <p> This tool gives the substitution and single nucleotide deletion counts at each nucleotide position.
-    The relevant frequencies are calculated. The resulting data is saved to .csv files.
-    The key output file is sequences_partitions/combined_mutation_counts.csv.</p>
+ <b>pairwise_deletion_counter.py:</b>
+ <p>  Calculates the counts/frequencies for each continuous deletion sequence in the pairwise
+	dataset.</p>
 
  
