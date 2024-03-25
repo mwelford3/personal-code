@@ -1,4 +1,4 @@
-This repository contains example files from my thesis work.<br><br>
+This repository contains example files from my thesis work studying the mutations in the SARS-CoV-2 S-gene.<br><br>
 <p>The full text can be found <a href="https://huskiecommons.lib.niu.edu/allgraduate-thesesdissertations/7773/">here</a>.</p>
 <b>GeneralDeletionAnalyzer.ipynb:</b>
 <p>
