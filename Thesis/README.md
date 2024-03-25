@@ -6,7 +6,7 @@ This repository contains example files from my thesis.<br><br>
 	metrics, and highest frequency frameshift deletions are found. Histograms for the
 	deletion lengths using the three frequency metrics are generated. This is the Jupyter Notebook version.</p><br>
 
- <b>SubunitAnalyzer.ipyb:</b>
+ <b>SubunitAnalyzer.ipynb:</b>
  <p>See the description of general_subunit_analyzer.py for the newer version. The ipynb file was used during the thesis work.</p><br>
 
  <b>general_deletion_analyzer.py</b>
