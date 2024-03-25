@@ -1,5 +1,6 @@
 This repository contains example files from my thesis work studying the mutations in the SARS-CoV-2 S-gene.<br><br>
 <p>The full text can be found <a href="https://huskiecommons.lib.niu.edu/allgraduate-thesesdissertations/7773/">here</a>.</p>
+<h3>Example Files:</h3>
 <b>GeneralDeletionAnalyzer.ipynb:</b>
 <p>
 	This tool is used to analyze the deletions in any number of datasets.
