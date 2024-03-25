@@ -1,4 +1,4 @@
- This contains the my portion of the group project I completed making visualizations for Data Visualization for the WNIJ radio station on COVID-19 vaccinations at Northern Illinois nursing homes with Harish Varma Siravuri and Yue Ma.<br>
+ This contains the my portion of the group project I completed making visualizations for Data Visualization for the WNIJ radio station on COVID-19 vaccinations at Northern Illinois nursing homes with Harish Varma Siravuri and Yue Ma. The full article can be found <a href="https://www.northernpublicradio.org/2022-06-03/despite-case-counts-vaccination-rates-vary-among-illinois-nursing-home-residents-and-staff">here</a>.<br>
  <h3>Included Files:</h3>
  <ul>
    <li><b>WNIJ_Initial_Data_Exploration_Michael.ipynb</b> contains my initial exploration of the COVID-19 non-time series nursing home dataset using Pandas and Matplotlib with the following steps:
