@@ -4,10 +4,16 @@ This repository contains example files from my thesis.<br><br>
 	This tool is used to analyze the deletions in any number of datasets.
 	The highest frequency deletions, highest frequency deletion lengths using three
 	metrics, and highest frequency frameshift deletions are found. Histograms for the
-	deletion lengths using the three frequency metrics are generated.</p><br>
+	deletion lengths using the three frequency metrics are generated. This is the Jupyter Notebook version.</p><br>
 
  <b>SubunitAnalyzer.ipyb:</b>
  <p>See the description of general_subunit_analyzer.py for the newer version. The ipynb file was used during the thesis work.</p><br>
+
+ <b>general_deletion_analyzer.py</b>
+ <p>	This tool is used to analyze the deletions in any number of datasets.
+	The highest frequency deletions, highest frequency deletion lengths using three
+	metrics, and highest frequency frameshift deletions are found. Histograms for the
+	deletion lengths using the three frequency metrics are generated. This is the Python file version.</p><br>
  
  <b>general_subunit_analyzer.py:</b>
 <p> This tool can be used for any number of datasets and a set of user defined S-gene subunits/regions.
@@ -29,4 +35,4 @@ This repository contains example files from my thesis.<br><br>
 		CT<br>
 	Lists of positions that have not had at least one substitution and/or deletion are listed where applicable.
 	The high frequency mutation positions and general summaries for each subunit are also printed.
-	It also lists the high frequency (>= 0.1) mutation positions in each dataset.</p>
+	It also lists the high frequency (>= 0.1) mutation positions in each dataset.</p><br>
