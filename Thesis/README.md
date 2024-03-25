@@ -1,4 +1,5 @@
 This repository contains example files from my thesis work.<br><br>
+<p>The full text can be found <a href="https://huskiecommons.lib.niu.edu/allgraduate-thesesdissertations/7773/">here</a>.</p>
 <b>GeneralDeletionAnalyzer.ipynb:</b>
 <p>
 	This tool is used to analyze the deletions in any number of datasets.
