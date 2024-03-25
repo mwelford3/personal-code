@@ -1,4 +1,4 @@
-This folder contains example source files from a Clinical Trial Project during Pattern Recognition and Data Mining I at Northern Illinois University.
+This folder contains example source files from a Clinical Trial Project during Pattern Recognition and Data Mining I at Northern Illinois University. The project report and presentation can be found in the .pdf files.
 <p><b>Included Files:</b></p>
 <p><b>Correlation_Processing.ipynb</b> contains the code for finding the correlation coefficients of each numerical attribute of the clinical trial dataset.</p>
 <p><b>Project Preproessing.ipynb</b> contains the initial preprocessing steps:<br>
