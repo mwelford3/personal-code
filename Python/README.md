@@ -1,4 +1,4 @@
 <p>This section contains my Python programming work.<br>
    The clincial Trial Project folder contains the machine learning group project I completed in Pattern Recognition and Data Mining I at NIU with A S M Shahadat Hossain.<br>
    The WNIJ Project folder contains the my portion of the group project I completed making visualizations for the WNIJ radio station on COVID-19 vaccinations in Northern Illinois.<br>
-   The Data Camp Certificates folder contains the certificates I have completed on <a href="www.datacamp.com">Data Camp</a></p>
+   The Data Camp Certificates folder contains the certificates I have completed on <a href="https://www.datacamp.com/">Data Camp</a></p>
