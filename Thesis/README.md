@@ -9,7 +9,7 @@ This repository contains example files from my thesis.<br><br>
  <b>SubunitAnalyzer.ipynb:</b>
  <p>See the description of general_subunit_analyzer.py for the newer version. The ipynb file was used during the thesis work.</p><br>
 
- <b>general_deletion_analyzer.py</b>
+ <b>general_deletion_analyzer.py:</b>
  <p>	This tool is used to analyze the deletions in any number of datasets.
 	The highest frequency deletions, highest frequency deletion lengths using three
 	metrics, and highest frequency frameshift deletions are found. Histograms for the
@@ -36,3 +36,13 @@ This repository contains example files from my thesis.<br><br>
 	Lists of positions that have not had at least one substitution and/or deletion are listed where applicable.
 	The high frequency mutation positions and general summaries for each subunit are also printed.
 	It also lists the high frequency (>= 0.1) mutation positions in each dataset.</p><br>
+
+ <b>general_variant_finder.py:</b>
+ <p>    Determines the percentages of nonsynonymous substitutions or deletion in a set of variants
+	in any number of datasets. It plots the cumulative substitution frequency or cumulative
+    deltion frequency in each case.
+	Finally, it plots mutation frequency vs. nucleotide position for the whole S-gene
+	and each of three hotspot regions (1-3822, 1-1000, 1000-2500, 2500-3822).
+	It also lists the high frequency (>= 0.1) mutation positions in each dataset.</p><br>
+ <b>multi_deletion_counter.py:</b>
+ <p></p>
