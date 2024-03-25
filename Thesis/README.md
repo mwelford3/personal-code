@@ -6,10 +6,10 @@ This repository contains example files from my thesis.<br><br>
 	metrics, and highest frequency frameshift deletions are found. Histograms for the
 	deletion lengths using the three frequency metrics are generated.</p><br>
 
- <b>SubunitAnalyzer.ipyb</b>
+ <b>SubunitAnalyzer.ipyb:</b>
  <p>See the description of general_subunit_analyzer.py for the newer version. The ipynb file was used during the thesis work.</p><br>
  
- <b>general_subunit_analyzer.py</b>
+ <b>general_subunit_analyzer.py:</b>
 <p> This tool can be used for any number of datasets and a set of user defined S-gene subunits/regions.
     General summaries denoting the percentages for subtitutions and/or deletions in the entire S-gene and
 	the average numbers of each mutation type are produced for both datasets.
