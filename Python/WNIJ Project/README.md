@@ -21,6 +21,6 @@
      <li>Bottom 10 Facilities by Percentage Vaccinated Staff</li>
      <li>Bottom 10 Facilities by Percentage Vaccinated Residents</li>
    </ol>
-  </li>
+  </li><br>
   <li><b>updated_wnij_notebook_6_3_2022.ipynb</b> contains the code for creating the finalized versions of the plot for the news article.</li>
  </ul>
