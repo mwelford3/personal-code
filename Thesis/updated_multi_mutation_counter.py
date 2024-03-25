@@ -1,9 +1,9 @@
 # Name: Michael A. Welford
-# Filename: multi_mutation_counter.py Thesis Version
+# Filename: multi_mutation_counter.py
 # Tool Name: Multi Mutation Counter
 #
 # Required input files:
-# /mnt/home/z1679714/sars-cov2-GISAID-Sgene/test13.above97.txt This needs to become a relative path.
+# A multi-alignment file in the .maf format.
 # 
 # Output file names:
 # new_mutation_counts_freq_for_S_all.csv
