@@ -1,9 +1,9 @@
 # Name: Michael A. Welford
-# Filename: multi_deletion_counter.py Thesis Version
-# Tool Name: Multi Mutation Counter
+# Filename: multi_deletion_counter.py 
+# Tool Name: Multi Deletion Counter
 #
 # Required input files:
-# /mnt/home/z1679714/sars-cov2-GISAID-Sgene/test13.above97.txt This needs to become a relative path.
+#  A multi-alignment file in the .maf format passed in the command line.
 # 
 # Output file names:
 # temp_multi_contiguous_deletion_counter.txt
